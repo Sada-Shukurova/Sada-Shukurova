@@ -1,7 +1,7 @@
 ## Hi there 😸
 
 # 💫 About Me:
-🔭 I’m currently working on a Blog website<br>🌱 I’m currently learning Node.js
+🔭 I’m currently working on a Blog website<br>🌱 I’m currently learning Node.js and C#
 
 
 ## 🌐 Socials:
