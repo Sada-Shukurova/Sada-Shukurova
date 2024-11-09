@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a fullstack Blog website<br>🌱 I’m currently learning Node.js, C#
+🔭 I’m currently working on a fullstack Blog website<br>🌱 I’m currently learning Node.js
 
 
 ## 🌐 Socials:
